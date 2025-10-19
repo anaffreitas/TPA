@@ -1,1 +1,1 @@
-
+Exercícios sobre Laço Enquanto, Faça..Enquanto e Para. Cada arquivo é realizado em um laço diferente
