@@ -6,7 +6,7 @@ public class Divisores {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-Scanner in = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		
 		final int TAM = 10;
 		int a[], i, n;
