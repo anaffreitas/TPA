@@ -1,1 +1,15 @@
 Lista de exercícios sobre vetores realizada no dia 03/11
+
+Exercícios realizados: 1, 2, 3, 4, 5, 6, 8, 9, 13, 14, 15.
+
+1: ParesImpares
+2: Multiplicacao
+3: Primos
+4: Pares
+5: Divisores
+6: Potencia
+8: Somatoria
+9: Intersecao
+13: Palindromo
+14: Impares
+15: Maior
